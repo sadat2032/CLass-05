@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+	<head>
+   <title>Document</title>
+   </head>
+   <body>
+		<table border="1" width="100%" height="" cellpadding="0" cellspacing="0" align="">
+			<tr>
+				<td>
+					<table border="1" width="1140px" height="" cellpadding="1" cellspacing="1" align="center">
+						<tr>
+							<td width="60%" height="60px">LoGo</td>
+							<td width="40%" align="right">
+								<form>
+									<input type="text" placeholder="Search" id="text" ></input>
+									<button>SEARCH</button>
+								
+								</form>
+							
+							</td>
+						</tr>
+							<table border="1" width="100%" height="" cellpadding="0" cellspacing="0" align="">	
+						<tr>
+							<td>
+								<table border="1" width="1140px" height="" cellpadding="1" cellspacing="1" align="center">
+									<tr>
+										<td><marquee>Latest news</marquee></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+							</table>
+								<table border="1" width="100%" height="" cellpadding="0" cellspacing="0" align="">
+									<tr>
+										<td>
+											<table border="1" width="1140px" height="" cellpadding="1" cellspacing="1" align="center">
+												<tr>
+													<td>Home</td>
+													<td>About</td>
+													<td>Contact</td>
+													<td>Serviers</td>
+													<td>Blog</td>
+													
+												</tr>
+											</table>
+										</td>
+									</td>
+								</table>
+					
+					
+					</table>
+				
+				</td>
+		
+			</tr>
+				<tr>
+					<td>
+						<table border="1" width="100%" height="" cellpadding="0" cellspacing="0" align="">
+							<tr>
+								<td><img src="tree-736885__480.png"</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+					<tr>
+						<td>
+							<table border="1" width="100%" height="" cellpadding="0" cellspacing="0" align="">
+								<tr>
+									<td width="30%"><img src="Screenshot_1.png"></td>
+									<td valign="top">Topic sentences are similar to mini thesis statements. Like a thesis statement, a topic sentence has a specific main point. Whereas the thesis is the main point of the essay, the topic sentence is the main point of the paragraph. Like the thesis statement, a topic sentence has a unifying function. But a thesis statement or topic sentence alone doesn’t guarantee unity. An essay is unified if all the paragraphs relate to the thesis, whereas a paragraph is unified if all the sentences relate to the topic sentence. Note: Not all paragraphs need topic sentences. In particular, opening and closing paragraphs, which serve different functions from body paragraphs, generally don’t have topic sentences.
+
+In academic writing, the topic sentence nearly always works best at the beginning of a paragraph so that the reader knows what to expect:
+
+    The embrace of Twitter by politicians and journalists has been one of its most notable features in recent years: for both groups the use of Twitter is becoming close to a requirement.
+
+    —Paul Bernal, “A Defence of Responsible Tweeting”
+
+This topic sentence forecasts the central idea or main point of the paragraph: “politicians” and “journalists” rely on Twitter. The rest of the paragraph will focus on these two Twitter-user groups, thereby fulfilling the promise made by the topic sentence. By avoiding irrelevant information that does not relate to the topic sentence, you can compose a unified paragraph.</td>
+									<td width="30%" valign="top">
+										<table border="1" width="100%" height="" cellpadding="0" cellspacing="0" align="">
+											<tr>
+												<td>Home</td>
+											</tr>
+											<tr>
+												<td>Home</td>
+											</tr>
+											<tr>
+												<td>Home</td>
+											</tr>
+											<tr>
+												<td>Home</td>
+											</tr>
+											<tr>
+												<td>Home</td>
+											</tr>
+											<tr>
+												<td>Home</td>
+											</tr>
+											<tr>
+												<td>Home</td>
+											</tr>
+											<tr>
+												<td>Home</td>
+											</tr>
+										
+										</table>
+									</td>
+								</tr>
+							</table>
+								<table border="1" width="100%" height="" cellpadding="0" cellspacing="0" align="">
+									<tr>
+										<td width="30%" align="center">
+											<h3>Quick Links</h3>
+											<p>Links</p>
+											<p>Links</p>
+											<p>Links</p>
+											<p>Links</p>
+											<p>Links</p>
+											<p>Links</p>
+										</td>
+										<td width="30%">
+											<h3>Our Post</h3>
+											<img src="index.jpg"></td>
+										<td width="40%">
+											<h3>Contact</h3>
+											<form>
+												<input type="text" placeholder="Your Name Here"><br>
+												<input type="email" placeholder="Your Email Here"><br>
+												<input type="text" placeholder="Your subject Here"><br>
+												<textarea placeholder="Your Message Here">
+												<br>
+												<input value="Sent" type="submit">
+												
+											</form>
+										</td>
+									</tr>
+									
+								</table>
+						
+						</td>
+					</tr>
+					
+						
+					</table>
+			
+			
+		
+		
+		</table>
+   
+   
+   </body>
+   </html>
